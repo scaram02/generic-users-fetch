@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  margin: 0px
+}
+
+button {
+  margin: 40px;
+  padding: 10px;
+  background-color: rgb(125, 125, 209);
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5em
+}
+
+.profile-card {
+  border: 2px solid black;
+  margin: 5% 30%;
+  padding: 50px
+}
+
